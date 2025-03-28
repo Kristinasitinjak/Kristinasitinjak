@@ -1,3 +1,4 @@
+```md
 # 👋 Hi, I’m @Kristinasitinjak  
 - 👀 I’m interested in **Project Management, System Analysis, and Quality Assurance**  
 - 🌱 I’m currently learning **Business Process Optimization, Financial Reporting Systems, and Agile Methodologies**  
@@ -6,7 +7,10 @@
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I enjoy analyzing workflows, automating repetitive tasks, and improving efficiency through technology!**  
 
+🔍 **Check out my repositories to see my projects!**   😊
+
 <!---
 Kristinasitinjak/Kristinasitinjak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+```
